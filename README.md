@@ -1,4 +1,4 @@
-# Fundamentals of Web Technology Project - A simple blogging website 
+# Fundamentals of Web Technology Project - A simple blogging website (Spring 2017)
 
 A simple blog using HTML, CSS, JavaScript, PHP and a MySQL DB.
 
