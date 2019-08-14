@@ -9,7 +9,7 @@ A simple blog using HTML, CSS, JavaScript, PHP and a MySQL DB.
 
 1. **index.php:** redirects to viewBlog.php for displaying blog entries.
 2. **viewBlog.php:** displays blog entries stored in entry files, and redirect the user to login.html if there is not entry.
-3. login.html if there is not entry.
+3. **login.html:** asks the blogger to input user name and password.
 4. **login.php:** checks the username and password and redirects to addentry.html if correct.
 5. **addentry.html:** asks the blogger to add an entry.
 6. **addentry.php:** saves the new entry to entry files and redirects to viewBlog.php.
