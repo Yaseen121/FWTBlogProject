@@ -1,0 +1,146 @@
+body {
+	background-color: #606060;
+}
+
+#container {
+	width: auto;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#banner {
+    background-image:url("Banner.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 190px;
+	display: block;
+	height: 190px;
+	padding-top: 3%;
+	color: #61C2D3;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Arial';
+	font-size: 300%;
+	margin: 0;
+	border-radius: 25px;
+}
+
+a {
+	text-decoration: none;
+	color: #61C2D3;
+	padding-left: 10%;
+	padding-right: 10%;
+	width: 33%;
+	position:relative;
+	border-radius: 25px;
+}
+
+a:hover {
+    background-color: #000;
+}
+
+#navigation {
+	margin-top: -5%;
+	font-family: 'Arial';
+	font-size: 25px;
+	font-weight: bold;
+	background-color: #606060;
+	color: #61C2D3;
+	text-align: center;
+	float: center;
+	padding-bottom: 1%;
+	padding-top: 1%;
+	height: auto;
+	width: auto;
+}
+
+.active{
+	background-color: #E04F52;
+}
+
+#content {
+	margin: 0;
+	padding: 2%;
+	background-color: #61C2D3;
+	height: auto;
+	width: 96%;
+	float: left;
+	border-radius: 25px;
+}
+
+#main{
+	display: inline-block;
+	width: 60%;
+	padding: 0.5%;
+	float: left;
+	background-color: white;
+	color: black;
+	border-radius: 25px;
+	margin: 0;
+}
+
+#archive {
+	margin: 0;
+	display: inline-block;
+	width: 35%;
+	padding: 0.5%;
+	float: right;
+	background-color: white;
+	color: black;
+	border-radius: 25px;
+}
+
+#content2 {
+	margin: 0;
+	padding: 2%;
+	background-color: #61C2D3;
+	height: auto;
+	width: auto;
+	float: center;
+	border-radius: 25px;
+}
+
+#main2 {
+	width: 100%;
+	padding: 0.5%;
+	float: center;
+	background-color: white;
+	color: black;
+	border-radius: 25px;
+	margin: 0;
+}
+
+label{
+    display: inline-block;
+    float: center;
+    clear: left;
+    width: 250px;
+}
+
+input {
+  display: inline-block;
+  float: center;
+}
+
+#footer {
+	clear: both;
+	color: black;
+	background-color: #606060;
+	padding: 10px;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.title{
+	color: #00baae;
+}
+
+#date{
+	color: #0cba00;
+	font-style: italic;
+}
+
+#body{
+	color: #ba000c;
+}
